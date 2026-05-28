@@ -18,10 +18,12 @@ workflows well enough to collaborate with code and build useful tools with AI.
 
 ## Public Projects
 
-I am currently preparing selected projects for public release.
+Selected projects I am preparing and maintaining publicly:
 
-- Gmail Automation: a local Gmail cleanup assistant for previewing and applying
-  safe inbox rules.
+- [Gmail Automation](https://github.com/anujnirval/Gmail_Automation): a local
+  Gmail cleanup dashboard and CLI for previewing safe inbox rules before
+  applying labels, archive, mark-read, or trash actions. Built with Python,
+  FastAPI, React, Vite, and the Gmail API.
 - Task First: a future productivity app focused on task clarity and execution.
 
 ## Background
